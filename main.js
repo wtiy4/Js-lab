@@ -29,6 +29,7 @@ let seconds = hour * 3600;
 console.log(`${hour} hours = ${seconds} seconds`);
 
 
+
 // Fourth Exercise
 let first = "Alwaleed";
 let second = "Alharbi";
@@ -36,8 +37,18 @@ let second = "Alharbi";
 console.log(first + " " + second);
 
 
+
+// Fifth Exercise
 var bill = 10.25 + 3.99 + 7.15;
 var tip = bill * 0.15;
-var total = bill + tip;
+var sum = bill + tip;
 
 console.log(total);
+
+
+
+// Sixth Exercise
+
+
+
+// Sixth Exercise
